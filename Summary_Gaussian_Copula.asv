@@ -1,0 +1,4 @@
+obj=Bookkeeping_MCMC{1};
+current=obj('Current_dof_mapObj');
+
+
